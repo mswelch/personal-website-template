@@ -11,3 +11,5 @@ permalink: /
 ---
 
 Welcome to my website! 
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg">
